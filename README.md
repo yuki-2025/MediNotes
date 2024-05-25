@@ -1,2 +1,2 @@
 # GenNote
-Capstone project 123
+Capstone Research project 123
