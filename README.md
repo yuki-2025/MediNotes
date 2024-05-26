@@ -2,16 +2,21 @@
 The Capstone Research project is still in progress. We will release the results gradually, part by part.
 You can try the fine-tuned Llama3 that can convert medical dialogues to SOAP notes. 
 
-## Preview
-
 
 ## Setup 
-1. Download the app.py file.
+1. Download the requirements.txt and app.py file.
 2. Install the necessary libraries.
-3. Run the app.
 
 ```python
-!pip install streamlit
- 
+!pip install -r requirements.txt  
+```
+
+3. Run the app.
+
+```python 
 python -m streamlit run app.py
 ```
+![image](https://github.com/yuki-2025/MediNotes/assets/159591455/d2f64ee2-8bce-45f6-9066-03b7921d8e82)
+
+## Preview
+
