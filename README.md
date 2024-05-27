@@ -1,5 +1,5 @@
 # MediNotes
-The Capstone Research project is still in progress. We will release the results gradually, part by part.
+The Capstone Research project is still in progress. We will release the results gradually, part by part. </br>
 You can try the fine-tuned Llama3 that can convert medical dialogues to SOAP notes. 
 
 
