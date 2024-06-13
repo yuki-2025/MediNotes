@@ -1,10 +1,10 @@
+pyaudio
+torch
 transformers
-langchain
-langchain-community
-xformers
-trl
-peft
-streamlit 
-accelerate
-bitsandbytes
-unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+soundfile
+numpy
+resemblyzer
+scikit-learn
+webrtcvad
+pyannote.audio
+pyannote.pipeline
