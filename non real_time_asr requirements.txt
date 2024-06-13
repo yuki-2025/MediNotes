@@ -1,0 +1,8 @@
+pyaudio
+torch
+transformers
+soundfile
+numpy
+pydub
+pyannote.audio
+huggingface_hub
