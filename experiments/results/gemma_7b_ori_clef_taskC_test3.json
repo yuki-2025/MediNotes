@@ -1,0 +1,13 @@
+{
+    "num_test": 40,
+    "ALL": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0,
+        "bertscore-precision": 0.299141725897789,
+        "bertscore-recall": 0.18685196675360202,
+        "bertscore-f1": 0.2294166050851345,
+        "bleurt": 0.33246506564319134
+    }
+}
