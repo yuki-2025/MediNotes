@@ -31,17 +31,15 @@ python -m streamlit run app.py
 ## Model:
 You can try the fine-tuned model yourself, which converts medical dialogues into SOAP notes:
 
-Full 4-bit quantized model:
-https://huggingface.co/Yuki20/llama3_8b_aci_3e_full4b
+| Model                                  | Hugging Face Link                                                  |
+|-------------------------------------------|--------------------------------------------------------------------|
+| **Full 4-bit quantized model**            | https://huggingface.co/Yuki20/llama3_8b_aci_3e_full4b               |
+| **Full model**                            | https://huggingface.co/Yuki20/llama3_8b_aci_3e_full                 |
+| **Adapter only with Unsloth (Mistral 7b)**| https://huggingface.co/Yuki20/mistral_7b_aci_3e                     |
+| **Adapter only with Unsloth (Llama3 8b, 5e)** | https://huggingface.co/Yuki20/llama3_8b_aci_5e                   |
+| **Adapter only with Unsloth (Llama3 8b)** | https://huggingface.co/Yuki20/llama3_8b_aci                       |
 
-Full model:
-https://huggingface.co/Yuki20/llama3_8b_aci_3e_full
-
-Adapter only with Unsloth:  <br>
-https://huggingface.co/Yuki20/mistral_7b_aci_3e  <br>
-https://huggingface.co/Yuki20/llama3_8b_aci_5e  <br>
-https://huggingface.co/Yuki20/llama3_8b_aci  <br>
-
+ 
 ## Citation
 If you find Medinotes useful in your research or applications, please kindly cite:
 ```
