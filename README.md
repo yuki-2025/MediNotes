@@ -1,5 +1,6 @@
 # Research Capstone Project: MediNotes
 MediNotes: SOAP Note Generation through Ambient Listening, Large Language Model Fine-Tuning, and RAG
+- MediNotes is a first-gen GenAI framework that enhances clinical consultations by automating documentation and providing a healthcare-domain–fine-tuned copilot with retrieval-augmented generation (RAG) and ambient listening. 
 - MediNotes was awarded “Best in Show” as one of the Top Capstone Projects at the University of Chicago showcase.
 - This project was a collaboration with UChicago Medicine to advance healthcare AI.
 - Building on groundbreaking research from the Microsoft AI team published in Nature, we developed an innovative framework designed to streamline medical documentation and the consultation process, with the goal of alleviating physician burnout.
