@@ -5,6 +5,7 @@ MediNotes: SOAP Note Generation through Ambient Listening, Large Language Model 
 - This project was a collaboration with UChicago Medicine to advance healthcare AI.
 - Building on groundbreaking research from the Microsoft AI team published in Nature, we developed an innovative framework designed to streamline medical documentation and the consultation process, with the goal of alleviating physician burnout.
 - By combining cutting-edge technologies like ambient listening, large language model fine-tuning, and retrieval-augmented generation (RAG), MediNotes represents a significant step forward in optimizing healthcare workflows and improving physician efficiency.
+- [More detail..](https://yuki-blog1.vercel.app/1f277898bda980538067fa496cab4d39)
 
 ## Demo Preview: 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QmWfvFdQc08
