@@ -44,12 +44,27 @@ You can try the fine-tuned model yourself, which converts medical dialogues into
 ## Citation
 If you find Medinotes useful in your research or applications, please kindly cite:
 ```
+@inproceedings{leong2024efficient,
+  title={Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation},
+  author={Leong, HY and Gao, YF and Ji, S and Zhang, Yang and Pamuksuz, Uktu},
+  booktitle={2024 IEEE International Conference on Data Science in Intelligent Systems (DSInS)},
+  year={2024}, 
+  doi={10.1109/DSInS64146.2024.10992195},
+  url={https://doi.org/10.1109/DSInS64146.2024.10992195},
+  publisher={IEEE}
+}
 
-@inproceedings{leong2024medinotes, 
-title={{MediNotes}: A Generative AI Framework for Medical Note Generation}, 
-author={Leong, HY and Gao, YF and Ji, S and Kalaycioglu, Bora and Pamuksuz, Uktu}, 
-journal={arXiv preprint arXiv:2410.01841}, 
-year={2024} }
+@inproceedings{leong2024medinotes,
+  title={A Gen AI Framework for Medical Note Generation},
+  author={Leong, HY and Gao, YF and Ji, S},
+  booktitle={2024 IEEE International Conference on Artificial Intelligence and Advanced Control (ICAICA)},
+  year={2024},
+  doi={10.1109/ICAICA63239.2024.10823004},
+  url={https://doi.org/10.1109/ICAICA63239.2024.10823004},
+  publisher={IEEE}
+}
+
+
 ```
 
 ## Acknowledgements
